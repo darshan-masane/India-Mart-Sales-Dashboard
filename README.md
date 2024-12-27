@@ -31,10 +31,14 @@ This project presents an interactive sales dashboard designed to visualize key s
 
 ## - <a href="https://github.com/darshan-masane/India-Mart-Sales-Dashboard/blob/main/India%20Sales%20data.xlsx">Dataset</a>
 
+### Dashboard Overview :-
+![india_mart.](https://github.com/darshan-masane/India-Mart-Sales-Dashboard/blob/main/india_mart.mp4)
+
 ## Potential Improvements
 
 *   Interactive Filters
 *   Tooltips for Detailed Information
+
   
 
 
