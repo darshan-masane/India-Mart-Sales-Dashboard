@@ -5,7 +5,8 @@ India-Mart-Sales-Data-Analysis(Responsive &amp; Interactive Dashboard creation u
 This project presents an interactive sales dashboard designed to visualize key sales metrics and trends.
 
 ## - <a href="https://github.com/darshan-masane/India-Mart-Sales-Dashboard/blob/main/India%20Sales%20data.xlsx">Dataset</a>
-
+## Dashboard:
+## - <a href='https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Screenshot%202024-11-01%20120048.png'>Dashboard</a>
 
 ## Key Features
 
@@ -24,11 +25,11 @@ This project presents an interactive sales dashboard designed to visualize key s
 
 ## Technologies Used
 
-*   [List technologies here: e.g., Power BI, Tableau, Python (Matplotlib, Seaborn, Pandas), Excel, etc.]
+*   [List technologies here: e.g.MS Excel, Pivot Table, Sclicer, Filters, Charts, Maps etc.]
 
 ## Data Source
 
-*   [Describe data source]
+## - <a href="https://github.com/darshan-masane/India-Mart-Sales-Dashboard/blob/main/India%20Sales%20data.xlsx">Dataset</a>
 
 ## Potential Improvements
 
